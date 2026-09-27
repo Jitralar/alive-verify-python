@@ -1,5 +1,9 @@
 # Alive Verify Python
 
+[![PyPI version](https://img.shields.io/pypi/v/alive-verify.svg)](https://pypi.org/project/alive-verify/)
+[![Python versions](https://img.shields.io/pypi/pyversions/alive-verify.svg)](https://pypi.org/project/alive-verify/)
+[![License](https://img.shields.io/pypi/l/alive-verify.svg)](https://github.com/Jitalar/alive-verify-python/blob/main/LICENSE)
+
 Unofficial Python client for the Alive Verify API. (focused on ISIC - International Student Identity Card)
 
 The library provides a simple interface for card verification, partner information and transaction reporting using the Alive Verify REST API.
