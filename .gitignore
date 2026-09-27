@@ -1,0 +1,11 @@
+.venv/
+.venv-testpypi/
+.venv-wheel-test
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+dist/
+build/
+*.egg-info/
